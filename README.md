@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olawale! A Cybersecurity Professional <br/><a href="https://github.com/Wales1205">GitHub</a>, <a href="www.linkedin.com/in/olawale-akanji-abiola">LinkedIn</a>
+<h1>Hi, I'm Olawale!👋🏻   A Cybersecurity Professional <br/><a href="https://github.com/Wales1205">GitHub</a>, <a href="www.linkedin.com/in/olawale-akanji-abiola">LinkedIn</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
